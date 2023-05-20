@@ -1,43 +1,43 @@
-                                                     _                 _         
-   ___ ___  ___ ___  _ __ ___  _ __  _ __ ___   ___ | |_ _ __ __ _  __| | ___    
-  / __/ _ \/ __/ _ \| '_ ` _ \| '_ \| '__/ _ \ / _ \| __| '__/ _` |/ _` |/ _ \   
- | (_| (_) | (_| (_) | | | | | | |_) | | | (_) | (_) | |_| | | (_| | (_| | (_) |  
-  \___\___/ \___\___/|_| |_| |_| .__/|_|  \___/ \___/ \__|_|  \__,_|\__,_|\___/   
-                                |_|                                               
+                                     ███╗   ██╗███████╗ █████╗ ███████╗████████╗
+                                     ████╗  ██║██╔════╝██╔══██╗██╔════╝╚══██╔══╝
+                                     ██╔██╗ ██║███████╗███████║███████╗   ██║   
+                                     ██║╚██╗██║╚════██║██╔══██║╚════██║   ██║   
+                                     ██║ ╚████║███████║██║  ██║███████║   ██║   
+                                     ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
 
-Welcome to the world of GreenLoad! In this game, you play as a hero who must 
-use your technology skills to stop an apocalyptic event from occurring on the 
-planet. But be warned, the journey will not be easy, and you must overcome 
-various challenges and obstacles to save humanity from disaster.
+                                    GreenLoad: エコロジー×テクノロジーの融合
 
-## Features
+## 概要
 
-- Engaging gameplay
-- Stunning visuals
-- Unique blending of technology and nature
-- Exciting storyline
+GreenLoadは、エコロジーをテーマにしたシューティングゲームです。あなたは、自然とテクノロジーを融合させて、地球を救うために戦わなければなりません。独自のアイテムを使い、強力な敵を倒して、プラネットを救うことができるでしょうか。
 
-## Installation
+## 特徴
 
-To play GreenLoad, simply visit our website at https://<username>.github.io. No 
-installation is required! 
+- シンプルでわかりやすいゲームプレイ
+- 美しいフォトリアルグラフィック
+- 独自のアイテムや武器
+- 全世界のプレイヤーとのスコアランキング
 
-## Screenshots
+## インストール
+
+GreenLoadは無料でプレイできます！以下のURLからアクセスしてください。
+
+https://<username>.github.io
+
+## スクリーンショット
 
 ![Screenshot 1](/screenshots/1.png)
 ![Screenshot 2](/screenshots/2.png)
 
-## Contributing
+## コントリビュート
 
-We welcome contributions from the community! If you would like to contribute to 
-GreenLoad, please see our [CONTRIBUTING.md](/CONTRIBUTING.md) file for more 
-information.
+GreenLoadの開発に興味がある方は、ぜひコントリビュートしてください。PRやバグレポート、改善提案など、あなたの貢献がプロジェクトをより良くするための力になります。
 
-## Authors
+## 作者
 
-- John Smith - Developer - johnsmith@example.com
-- Jane Doe - Designer - janedoe@example.com
+- John Smith - 開発者 - johnsmith@example.com
+- Jane Doe - デザイナー - janedoe@example.com
 
-## License
+## ライセンス
 
-This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details.
+このプロジェクトはMITライセンスの下で公開されています。詳細については、LICENSE.mdファイルを参照してください。
