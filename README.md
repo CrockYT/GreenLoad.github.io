@@ -34,8 +34,7 @@ GreenLoadの開発に興味がある方は、ぜひコントリビュートし�
 
 ## 作者
 
-- John Smith - 開発者 - johnsmith@example.com
-- Jane Doe - デザイナー - janedoe@example.com
+- CrockYT - 開発者 - 
 
 ## ライセンス
 
