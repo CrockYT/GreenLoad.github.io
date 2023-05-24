@@ -126,3 +126,8 @@ section p {
 #language-toggle {
   display: none;
 }
+
+#language-change {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
